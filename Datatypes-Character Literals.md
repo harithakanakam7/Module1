@@ -15,7 +15,8 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/4387c911-ecfb-458c-8846-2012b455ddf9)
+<img width="349" height="221" alt="image" src="https://github.com/user-attachments/assets/a52be4d0-4a1c-4e8c-95e5-d44f385dde23" />
+
 
 
 ## Result
