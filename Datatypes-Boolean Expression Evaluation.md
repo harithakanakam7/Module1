@@ -27,7 +27,8 @@ To write a Python program that evaluates and prints the results of boolean and a
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/155e4019-b9ba-4270-8d80-8f6e4b596407)
+<img width="1265" height="257" alt="image" src="https://github.com/user-attachments/assets/2b6e7de6-a48c-4ff3-a66e-5ba11515dec4" />
+
 
 
 
