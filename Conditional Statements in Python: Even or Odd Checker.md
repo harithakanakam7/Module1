@@ -20,7 +20,7 @@ else:
     print("ODD")
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/c07944ac-3492-474e-ab98-434635e9b243)
+<img width="694" height="234" alt="image" src="https://github.com/user-attachments/assets/0893ba9b-723d-4a05-a83f-22c842969578" />
 
 ## Result
 Thus the program has been successfully executed
